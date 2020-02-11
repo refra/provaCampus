@@ -1,0 +1,19 @@
+{
+	"Campus" : [
+		{"name" : "Casa",
+		"coords" : {
+			"latitude" : "45.5743165",
+			"longitude" : "8.9736728"
+		}},
+		{"name" : "Incrocio",
+		"coords" : {
+			"latitude" : "45.574740",
+			"longitude" : "8.973810"
+		}},
+		{"name" : "Parcheggio",
+		"coords" : {
+			"latitude" : "45.574066",
+			"longitude" : "8.974843"
+		}}
+	]
+}
