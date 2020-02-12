@@ -29,7 +29,7 @@ function renderPlaces(places) {
         const icon = document.createElement("a-image");
         icon.setAttribute("gps-entity-place", "latitude: " + places[i].coords[0] + "; longitude: " + places[i].coords[1] + ";");
         icon.setAttribute("name", places[i].name);
-        icon.setAttribute("src", "pattern-map-marker.patt");
+        icon.setAttribute("src", "map-marker.png");
 
         // eventually alter scale. Now big for debugging.
         icon.setAttribute("scale", "20");
