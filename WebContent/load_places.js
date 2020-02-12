@@ -33,7 +33,7 @@ function renderPlaces(places) {
 
         // eventually alter scale. Now big for debugging.
         icon.setAttribute("scale", "20");
-        icon.setAttribute("position", "vertical")
+        icon.setAttribute("orientation", "vertical")
 
 //        //Listener present in demo from lib_developer, unknown usage.
 //        icon.addEventListener("loaded", () => window.dispatchEvent(new CustomEvent("gps-entity-place-loaded")));
